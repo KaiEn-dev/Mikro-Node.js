@@ -1,2 +1,2 @@
 # Mikro-Node.js
-![mybanjir logo](logo.png)
+![mikro logo](logo.PNG)
