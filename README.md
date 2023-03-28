@@ -15,4 +15,5 @@ This project consists of three big parts: a web application, a mobile applicatio
 - POSTMAN
 - Heroku(Paas)
 ### Demo
-> heroku node server no longer available ([heroku free dynos no longer avaiable starting Nov 28, 2022](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq))
+> heroku node server no longer available ([heroku free dynos no longer available starting Nov 28, 2022](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq))
+### Screenshots
