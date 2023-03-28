@@ -8,4 +8,11 @@ This project consists of three big parts: a web application, a mobile applicatio
 ### Built with
 - JavaScript
 - Node.js
-- 
+- Express.js
+- MySQL
+- Firebase
+- Apisauce (npm)
+- POSTMAN
+- Heroku(Paas)
+### Demo
+> heroku node server no longer available ([heroku free dynos no longer avaiable starting Nov 28, 2022](https://levelup.gitconnected.com/the-end-of-free-dynos-at-heroku-272fdf2d78c4))
