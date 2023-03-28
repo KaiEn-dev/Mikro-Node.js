@@ -3,8 +3,13 @@
 ### About The Project
 Mikro is the final year project of my bachelors degree. <br/>
 Mikro is an online shop builder and manager mobile application. <br/>
-This project consists of three big parts: a web application, a mobile application, and a backend server application.
-> this repository only contains the backend server application.
+This project consists of three big parts: 
+- a react web application (online shop)
+- a react native mobile application (online shop manager)
+- a node backend server application (RESTful API)
+### About This Repo
+This repository only contains the backend server application. <br/>
+This node application is a RESTful API server. Transferring of resources between a MySQL database and both the react & react native applications are made through this server. The server application and database were deployed to Heroku. 
 ### Built with
 - JavaScript
 - Node.js
