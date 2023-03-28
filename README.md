@@ -2,7 +2,7 @@
 ![mikro logo](logo.PNG)
 ### About The Project
 Mikro is the final year project of my bachelors degree. <br/>
-Mikro is an online shop builder and manager mobile application. <br/>
+Mikro is an online shop builder and manager mobile system. <br/>
 This project consists of three big parts: 
 - a react web application (online shop)
 - a react native mobile application (online shop manager)
