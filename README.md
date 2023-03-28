@@ -14,7 +14,8 @@ This project consists of three big parts:
 4. Sales can then be managed by the business owner in the same Mikro mobile application.
 ### About This Repo
 This repository only contains the backend server application. <br/>
-This node application is a RESTful API server. Transferring of resources between a MySQL database and both the react & react native applications are made through this server. The server application and database were deployed to Heroku. 
+This node application is a RESTful API server. <br/>
+Transferring of resources between a MySQL database and both the react & react native applications are made through this server. The server application and database were deployed to Heroku. 
 ### Built with
 - JavaScript
 - Node.js
