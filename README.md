@@ -22,7 +22,7 @@ Transferring of resources between a MySQL database and both the react & react na
 - Express.js
 - MySQL
 - Firebase
-- Apisauce (npm)
+- Axios (npm)
 - POSTMAN
 - Heroku(Paas)
 ### Demo
