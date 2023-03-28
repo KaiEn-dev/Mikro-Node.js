@@ -17,3 +17,8 @@ This project consists of three big parts: a web application, a mobile applicatio
 ### Demo
 > heroku node server no longer available ([heroku free dynos no longer available starting Nov 28, 2022](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq))
 ### Screenshots
+<br/>firebase storage<br/>
+![firebase page](/Screenshots/Firebase.png)
+<br/>HTTP Request preview in POSTMAN<br/>
+![express1](/Screenshots/Express1.png)
+![express2](/Screenshots/Express2.png)
